@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Зайчик-программист\С-homework\hw1\task02_find max\bin\Debug\net6.0\task02_find max.exe
+C:\Users\User\Desktop\Зайчик-программист\С-homework\hw1\task02_find max\bin\Debug\net6.0\task02_find max.deps.json
+C:\Users\User\Desktop\Зайчик-программист\С-homework\hw1\task02_find max\bin\Debug\net6.0\task02_find max.runtimeconfig.json
+C:\Users\User\Desktop\Зайчик-программист\С-homework\hw1\task02_find max\bin\Debug\net6.0\task02_find max.dll
+C:\Users\User\Desktop\Зайчик-программист\С-homework\hw1\task02_find max\bin\Debug\net6.0\task02_find max.pdb
+C:\Users\User\Desktop\Зайчик-программист\С-homework\hw1\task02_find max\obj\Debug\net6.0\task02_find max.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Зайчик-программист\С-homework\hw1\task02_find max\obj\Debug\net6.0\task02_find max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Зайчик-программист\С-homework\hw1\task02_find max\obj\Debug\net6.0\task02_find max.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Зайчик-программист\С-homework\hw1\task02_find max\obj\Debug\net6.0\task02_find max.AssemblyInfo.cs
+C:\Users\User\Desktop\Зайчик-программист\С-homework\hw1\task02_find max\obj\Debug\net6.0\task02_find max.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Зайчик-программист\С-homework\hw1\task02_find max\obj\Debug\net6.0\task02_find max.dll
+C:\Users\User\Desktop\Зайчик-программист\С-homework\hw1\task02_find max\obj\Debug\net6.0\refint\task02_find max.dll
+C:\Users\User\Desktop\Зайчик-программист\С-homework\hw1\task02_find max\obj\Debug\net6.0\task02_find max.pdb
+C:\Users\User\Desktop\Зайчик-программист\С-homework\hw1\task02_find max\obj\Debug\net6.0\task02_find max.genruntimeconfig.cache
+C:\Users\User\Desktop\Зайчик-программист\С-homework\hw1\task02_find max\obj\Debug\net6.0\ref\task02_find max.dll
